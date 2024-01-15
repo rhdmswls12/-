@@ -2,7 +2,7 @@
 116C:\Users\LG\Desktop\study\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\selector.js133497815257147436 0
 51C:\Users\LG\Desktop\study\node_modules\cli-progress133497814897877103 1
 60C:\Users\LG\Desktop\study\node_modules\lodash\_baseInvoke.js133497821907384206 0
-30C:\Users\LG\Desktop\study\dist133497832205669808 1
+30C:\Users\LG\Desktop\study\dist133497835486223875 1
 112C:\Users\LG\Desktop\study\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\moveGroupAttrsToElems.js133497814993537639 0
 96C:\Users\LG\Desktop\study\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c133497815130236903 0
 58C:\Users\LG\Desktop\study\node_modules\lodash\fp\curryN.js133497821931216811 0
@@ -48,7 +48,7 @@
 122C:\Users\LG\Desktop\study\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\4-restructShorthand.js133497814828467839 0
 53C:\Users\LG\Desktop\study\node_modules\lodash\fp\F.js133497821933257951 0
 104C:\Users\LG\Desktop\study\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\walker\create.js133497814961971954 0
-33C:\Users\LG\Desktop\study\main.js133497832203475671 0
+33C:\Users\LG\Desktop\study\main.js133497835480775970 0
 57C:\Users\LG\Desktop\study\node_modules\.package-lock.json133497821967801565 0
 45C:\Users\LG\Desktop\study\node_modules\dotenv133497814827538229 1
 70C:\Users\LG\Desktop\study\node_modules\htmlnano\lib\modules\custom.mjs133497815172007209 0
@@ -823,7 +823,7 @@
 75C:\Users\LG\Desktop\study\node_modules\htmlparser2\lib\FeedHandler.d.ts.map133497814846787311 0
 79C:\Users\LG\Desktop\study\node_modules\type-fest\source\fixed-length-array.d.ts133497814889517034 0
 77C:\Users\LG\Desktop\study\node_modules\type-fest\source\iterable-element.d.ts133497814905127180 0
-48C:\Users\LG\Desktop\study\dist\index.63aff760.js133497832205500252 0
+48C:\Users\LG\Desktop\study\dist\index.63aff760.js133497835485463442 0
 83C:\Users\LG\Desktop\study\node_modules\@parcel\source-map\dist\wasm-bindings-web.js133497814897867068 0
 77C:\Users\LG\Desktop\study\node_modules\csso\node_modules\css-tree\lib\data.js133497815336038173 0
 57C:\Users\LG\Desktop\study\node_modules\lodash\defaults.js133497821931526768 0
@@ -2928,7 +2928,7 @@
 63C:\Users\LG\Desktop\study\node_modules\lodash\_strictIndexOf.js133497821914300850 0
 72C:\Users\LG\Desktop\study\node_modules\@parcel\workers\lib\WorkerFarm.js133497815033236534 0
 60C:\Users\LG\Desktop\study\node_modules\lodash\fp\uniqueId.js133497821964329189 0
-52C:\Users\LG\Desktop\study\dist\index.63aff760.js.map133497832205649871 0
+52C:\Users\LG\Desktop\study\dist\index.63aff760.js.map133497835485763682 0
 115C:\Users\LG\Desktop\study\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\prepare-tokens.js133497815235016960 0
 63C:\Users\LG\Desktop\study\node_modules\lodash\_stringToArray.js133497821914430499 0
 74C:\Users\LG\Desktop\study\node_modules\caniuse-lite\data\regions\alt-na.js133497814936518684 0
@@ -6983,4 +6983,4 @@
 54C:\Users\LG\Desktop\study\node_modules\.bin\parcel.ps1133497815585416875 0
 54C:\Users\LG\Desktop\study\node_modules\.bin\semver.cmd133497815585416875 0
 52C:\Users\LG\Desktop\study\node_modules\.bin\svgo.ps1133497815585426852 0
-41C:\Users\LG\Desktop\study\dist\index.html133497827648254411 0
+41C:\Users\LG\Desktop\study\dist\index.html133497835482900288 0
