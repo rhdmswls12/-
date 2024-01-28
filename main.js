@@ -1,9 +1,22 @@
-import { cloneDeep } from "lodash"
+// 정규표현식(RegExp, Regular Expression)
 
-const a = [[1, 2] , [3]]
-const b = cloneDeep(a) // 깊은 복사
+const str = `
+010-1234-5678
+thesecond@gmail.com
+hello world!
+https://www.omdbapi.com
+The quick brown fox jumps over the lazy dog.
+hello@naver.com
+안녕하세요
+abbcccddddeeeee
+`
 
-b[0][0] = 4
+// const regexp = new RegExp('the','gi')
+// const regexp = /the/gi
+// console.log(str.match(regexp))
 
-console.log(b) // [[4, 2], [3]]
-console.log(a) // [[1, 2], [3]]
+const regexp = /fox/gi
+
+console.log(regexp.test(str))
+console.log(str.match(regexp))
+console.log(str.replace(regexp, 'cat'))
