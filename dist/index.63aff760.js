@@ -589,14 +589,19 @@ The quick brown fox jumps over the lazy dog.
 hello@naver.com
 \u{C548}\u{B155}\u{D558}\u{C138}\u{C694}
 abbcccddddeeeee
-`;
+.`;
 // const regexp = new RegExp('the','gi')
 // const regexp = /the/gi
 // console.log(str.match(regexp))
-const regexp = /fox/gi;
-console.log(regexp.test(str));
-console.log(str.match(regexp));
-console.log(str.replace(regexp, "cat"));
+// const regexp = /fox/gi
+// console.log(regexp.test(str))
+// console.log(str.match(regexp))
+// console.log(str.replace(regexp, 'cat'))
+console.log(str.match(/the/));
+console.log(str.match(/the/g));
+console.log(str.match(/the/gi));
+console.log(str.match(/\.$/gi));
+console.log(str.match(/\.$/gim));
 
 },{}]},["1yfyN","adjPd"], "adjPd", "parcelRequire0ac8")
 
